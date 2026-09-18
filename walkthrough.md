@@ -52,6 +52,8 @@ use kubectl to interact with your local Kubernetes cluster provided by Minikub
 
 kubectl cluster-info
 
+Prepare the base project cicd-base (from my repo)
+
 
 1. Create Namespace
 kubectl create namespace argocd
